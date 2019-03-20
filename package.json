@@ -23,7 +23,7 @@
   ],
   "main": "dist/vue-cytoscape.js",
   "dependencies": {
-    "cytoscape": "^3.3.3",
+    "cytoscape": "git+https://github.com/evgarik/cytoscape.js.git#master",
     "vue": "^2.5.2"
   },
   "devDependencies": {
